@@ -39,32 +39,12 @@
 			<string>PROD</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.267176035206-iblq01f7t675o6bq85agrkubb92vf2jn</string>
-			</array>
-		</dict>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLName</key>
-			<string>&lt;staging-identifier&gt;</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>&lt;opentrace&gt;</string>
-			</array>
-		</dict>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLName</key>
-			<string>&lt;prod-identifier&gt;</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>&lt;opentrace&gt;</string>
+				<string>com.googleusercontent.apps.267176035206-iblq01f7t675o6bq85agrkubb92vf2</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>27</string>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FIREBASE_STORAGE_URL</key>
 	<string>$(FIREBASE_STORAGE_URL)</string>
 	<key>GitBranchInfo</key>
