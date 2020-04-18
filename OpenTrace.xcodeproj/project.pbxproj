@@ -891,7 +891,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = 76RB96SLPB;
-				FIREBASE_STORAGE_URL = "contact-tracing-589b1-upload";
+				FIREBASE_STORAGE_URL = "amigo-contact-tracing-upload";
 				INFOPLIST_FILE = "$(SRCROOT)/OpenTrace/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -921,7 +921,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = 76RB96SLPB;
-				FIREBASE_STORAGE_URL = "contact-tracing-589b1-upload";
+				FIREBASE_STORAGE_URL = "amigo-contact-tracing-upload";
 				INFOPLIST_FILE = "$(SRCROOT)/OpenTrace/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (

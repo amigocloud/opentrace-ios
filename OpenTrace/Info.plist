@@ -29,7 +29,7 @@
 			<string>STG</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.267176035206-iblq01f7t675o6bq85agrkubb92vf2jn</string>
+				<string>com.googleusercontent.apps.572231891200-cuole1s5cnjnp27msgg3khm67mlipflg</string>
 			</array>
 		</dict>
 		<dict>
@@ -39,7 +39,7 @@
 			<string>PROD</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.267176035206-iblq01f7t675o6bq85agrkubb92vf2</string>
+				<string>com.googleusercontent.apps.572231891200-cuole1s5cnjnp27msgg3khm67mlipflg</string>
 			</array>
 		</dict>
 	</array>

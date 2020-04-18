@@ -2,7 +2,7 @@ import Foundation
 import FirebaseFunctions
 
 public final class FirebaseConfig {
-    public static var region = "us-central1"
+    public static let region = "us-central1"
 }
 
 struct FirebaseAPIs {
